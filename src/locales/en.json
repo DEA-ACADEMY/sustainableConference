@@ -1,0 +1,493 @@
+{
+  "brand": {
+    "name": "Sustainable Leadership Institute",
+    "subtitle": "معهد القيادة المستدامة"
+  },
+  "language": {
+    "ar": "AR",
+    "current": "AR | EN",
+    "en": "EN"
+  },
+  "nav": {
+    "about": "About",
+    "contact": "Contact Us",
+    "controls": "Site controls",
+    "home": "Home",
+    "primary": "Primary navigation",
+    "programs": "Programs",
+    "registration": "Registration",
+    "speakers": "Speakers",
+    "switchLanguage": "Switch language"
+  },
+  "hero": {
+    "eyebrow": "Deep Sustainable Impact",
+    "primaryAction": "Register Now",
+    "secondaryAction": "Explore Programs",
+    "subtitle": "A leadership incubator, accelerator, and specialized house of expertise for sustainable leadership craft and institutional enablement",
+    "title": "Sustainable Leadership Institute"
+  },
+  "stats": {
+    "label": "Institute numbers",
+    "items": [
+      {
+        "label": "Participating institutions",
+        "value": "58"
+      },
+      {
+        "label": "Training hours",
+        "value": "50+"
+      },
+      {
+        "label": "Participating countries",
+        "value": "25+"
+      },
+      {
+        "label": "Conferences",
+        "value": "5"
+      },
+      {
+        "label": "Institutions in incubation",
+        "value": "44"
+      }
+    ]
+  },
+  "programs": {
+    "title": "Main Programs",
+    "items": [
+      {
+        "description": "An integrated platform for learning, assessment, follow-up, communication, and impact tracking",
+        "href": "/conference",
+        "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+        "title": "Digital Platform"
+      },
+      {
+        "description": "A youth-development institutions community, expert network, and donor impact alliance",
+        "href": "/conference",
+        "image": "https://plq.deawkf.org/wp-content/uploads/2025/04/1B2A0005-1024x683.jpg",
+        "title": "Impact Leaders Forum"
+      },
+      {
+        "description": "An annual conference discussing the key issues and tools of leadership development",
+        "href": "/conference",
+        "image": "https://plq.deawkf.org/wp-content/uploads/2025/04/1B2A9443-300x200.jpg",
+        "title": "Sustainable Leadership Conference"
+      }
+    ]
+  },
+  "programCatalog": {
+    "more": "Learn More",
+    "items": [
+      {
+        "description": "Designing leadership qualification experiences, the upcoming fifth conference in Istanbul 2026.",
+        "details": [
+          "The fifth conference is the upcoming edition in the Sustainable Leadership Conference track, focused on designing leadership qualification experiences as a system of roles, competencies, and practices.",
+          "It builds on previous recommendations and on the institute’s outputs in methodologies, measures, digital platform work, and institutional enablement tracks.",
+          "This is the only edition currently open for registration, so the registration call to action appears here only."
+        ],
+        "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+        "slug": "fifth-conference-2026",
+        "title": "Fifth Conference 2026"
+      },
+      {
+        "description": "Leadership qualification excellence, a 2024 conference on an integrated approach for a mature society.",
+        "details": [
+          "The fourth Sustainable Leadership Conference concluded in Istanbul on April 26-27, 2025, organized by the International Academy for Development and Education Endowment with 65 institutions from 23 countries.",
+          "Its theme was designing leadership qualification experiences: roles, competencies, and practices. Sessions covered value models, leadership learning experience design, training impact measurement, institutional excellence, evidence-based qualification challenges, and initiative sustainability.",
+          "The conference recommended institutionalizing leadership qualification, adopting scientific measurement models, building sustainable follow-up systems, and strengthening partnerships among institutions working in leadership development."
+        ],
+        "image": "https://plq.deawkf.org/wp-content/uploads/2025/04/1B2A0005-1024x683.jpg",
+        "slug": "fourth-conference",
+        "title": "Fourth Conference"
+      },
+      {
+        "description": "Leadership qualification excellence toward an integrated approach for a mature society.",
+        "details": [
+          "The third conference was held in Istanbul on April 20-21, 2024 under the theme of leadership qualification excellence and an integrated approach for a mature society.",
+          "It examined the effectiveness and real-world impact of leadership training systems, governance standards, impact measurement, and the use of international experiences within a civilizational and values-based context.",
+          "Its goals included evaluating leadership-building practices, studying successful experiences, presenting a values-based and systemic view of leadership competencies, and preparing methodological guides for the desired leadership personality.",
+          "It targeted organizations, leadership qualification workers, talent-care institutions, education and training fields, distinguished cadres, institutes, universities, and students."
+        ],
+        "image": "https://plq.deawkf.org/wp-content/uploads/2025/04/1B2A9443-300x200.jpg",
+        "slug": "third-conference",
+        "title": "Third Conference"
+      },
+      {
+        "description": "Talent making and methodologies for discovering high-potential people.",
+        "details": [
+          "The second conference was held in Istanbul on June 5-6, 2022 around talent making and methodologies for discovering gifted people.",
+          "It began from the need to improve discovery methodologies, reduce waste in talent-care programs, and enable institutions to benefit from better international practices and standards.",
+          "It addressed weak scientific methodologies, institutional need for experience and expertise, and the importance of guiding discovery, development, and deployment paths.",
+          "The conference aimed to enable talent-care institutions, reach integrated scientific discovery and development methodologies, and strengthen coordination and experience exchange across the talent sector."
+        ],
+        "image": "https://plq.deawkf.org/wp-content/uploads/2025/04/131-1024x683.jpg",
+        "slug": "second-conference",
+        "title": "Second Conference"
+      },
+      {
+        "description": "The first conference in the path of talent care and leadership building.",
+        "details": [
+          "The first conference marked the starting point of the Sustainable Leadership Conference track and was connected to talent care and leadership building awareness.",
+          "Its outcomes paved the way for the second edition on talent discovery methodologies and for later editions on leadership qualification, governance, and impact measurement.",
+          "Deeper archival details can be added when a dedicated first-conference page or materials become available."
+        ],
+        "image": "https://plq.deawkf.org/wp-content/uploads/2025/04/126-1024x683.jpg",
+        "slug": "first-conference",
+        "title": "First Conference"
+      }
+    ]
+  },
+  "speakers": {
+    "all": "All speakers",
+    "cvTitle": "CV",
+    "downloadCv": "Download CV",
+    "downloadLecture": "Download lecture material",
+    "lecturePending": "Lecture material will be updated soon.",
+    "lectureTitle": "Lecture Material",
+    "search": "Search for a speaker",
+    "title": "Featured Speakers",
+    "viewAll": "View all speakers",
+    "directory": [
+      {
+        "name": "Dr. Saad Al Khalaf",
+        "slug": "saad-alkhalaf"
+      },
+      {
+        "name": "Dr. Ibrahim Al Khulaifi",
+        "slug": "ibrahim-alkhulaifi"
+      },
+      {
+        "name": "Dr. Othman Al Khader",
+        "slug": "othman-alkhader"
+      },
+      {
+        "name": "Mohammed Saad Al Bin",
+        "slug": "mohammed-saad-albin"
+      },
+      {
+        "name": "Mohammed Bahgat",
+        "slug": "mohammed-bahgat"
+      },
+      {
+        "name": "Dr. Rania Sawalhi",
+        "slug": "rania-sawalhi"
+      }
+    ],
+    "profile": {
+      "aboutText": "The conference is a leading platform for developing sustainable leadership through core leadership competencies, leader enablement, institutional development, and preparation programs.",
+      "aboutTitle": "About the Speaker",
+      "achievementsText": "The conference is a leading platform for developing sustainable leadership through core leadership competencies, leader enablement, institutional development, and preparation programs.",
+      "achievementsTitle": "Achievements",
+      "badge": "Official Speaker",
+      "name": "Dr. Saad Al Khalaf",
+      "role": "Sustainable Leadership Conference speaker"
+    },
+    "items": [
+      {
+        "initial": "A",
+        "name": "Name",
+        "role": "Position"
+      },
+      {
+        "initial": "B",
+        "name": "Name",
+        "role": "Position"
+      },
+      {
+        "initial": "C",
+        "name": "Name",
+        "role": "Position"
+      },
+      {
+        "initial": "D",
+        "name": "Name",
+        "role": "Position"
+      },
+      {
+        "initial": "E",
+        "name": "Name",
+        "role": "Position"
+      }
+    ]
+  },
+  "partners": {
+    "title": "Impact Partners",
+    "items": ["Partner Company", "Partner Company", "Partner Company", "Partner Company", "Partner Company", "Partner Company"]
+  },
+  "registration": {
+    "fields": [
+      {
+        "label": "First name",
+        "name": "firstName",
+        "type": "text"
+      },
+      {
+        "label": "Last name",
+        "name": "lastName",
+        "type": "text"
+      },
+      {
+        "label": "Birth date",
+        "name": "birthDate",
+        "type": "date"
+      },
+      {
+        "label": "Gender",
+        "name": "gender",
+        "options": ["Male", "Female"],
+        "type": "radio"
+      },
+      {
+        "label": "Phone",
+        "name": "phone",
+        "type": "tel"
+      },
+      {
+        "label": "Email",
+        "name": "email",
+        "type": "email"
+      },
+      {
+        "label": "Postal code",
+        "name": "zip",
+        "type": "number"
+      },
+      {
+        "label": "Country",
+        "name": "country",
+        "type": "text"
+      },
+      {
+        "label": "Reason for attending",
+        "name": "reason",
+        "type": "textarea"
+      },
+      {
+        "label": "How did you hear about the conference?",
+        "name": "source",
+        "options": ["Social media", "A friend", "Internet search"],
+        "type": "select"
+      }
+    ],
+    "subtitle": "Join the change and become part of a sustainable future",
+    "title": "Register for the conference now"
+  },
+  "impact": {
+    "action": "Register Now",
+    "subtitle": "Register now for the fifth conference 2026",
+    "title": "Be an impact partner"
+  },
+  "conference": {
+    "aboutText": "The conference discusses leadership-development craft and the design of leadership qualification experiences through roles, competencies, practices, and impact measurement.",
+    "aboutTitle": "About the Conference",
+    "date": "April 2026",
+    "duration": "Two Days",
+    "location": "Istanbul",
+    "topics": ["Leadership Roles", "Core Competencies", "Applied Practices", "Impact Measurement"],
+    "topicsTitle": "Main Conference Themes",
+    "whyText": "It gathers institutions and experts around deep understanding of leadership competencies, practical strategies for leader enablement, and tools for measuring leadership-development impact.",
+    "whyTitle": "Why Attend"
+  },
+  "timeline": {
+    "title": "Conference Program Overview",
+    "viewFull": "View full program",
+    "items": [
+      {
+        "time": "9:00 - 10:00",
+        "title": "Opening session"
+      },
+      {
+        "time": "10:15 - 11:15",
+        "title": "Leadership and sustainable impact"
+      },
+      {
+        "time": "11:30 - 12:30",
+        "title": "Institutional innovation and responsibility"
+      },
+      {
+        "time": "13:30 - 14:30",
+        "title": "Interactive workshops"
+      },
+      {
+        "time": "15:00 - 16:00",
+        "title": "Dialogue session with leaders"
+      }
+    ]
+  },
+  "footer": {
+    "call": "Call Us",
+    "contact": "Contact Us",
+    "copy": "© all copyright items belong to leadership conferance",
+    "email": "Email",
+    "follow": "Follow Us",
+    "newsletter": "Newsletter"
+  },
+  "pages": {
+    "about": {
+      "cards": [
+        {
+          "description": "A specialized institute for developing sustainable leadership craft, led by experts, strategists, and a broad network of specialized partners.",
+          "kicker": "01",
+          "title": "Who We Are"
+        },
+        {
+          "description": "A leadership incubator, accelerator, and house of expertise producing knowledge, methodologies, curricula, guides, technologies, and measures.",
+          "kicker": "02",
+          "title": "Vision"
+        },
+        {
+          "description": "An active contribution to innovating youth leadership qualification solutions and enabling institutions that build leaders.",
+          "kicker": "03",
+          "title": "Mission"
+        }
+      ],
+      "eyebrow": "About",
+      "subtitle": "A house of expertise and leadership incubator for knowledge production and institutional enablement",
+      "title": "About the Institute",
+      "goalsTitle": "Strategic Goals",
+      "valuesTitle": "Our Values",
+      "values": [
+        {
+          "description": "Creating lasting impact through methodologies, curricula, and operating guides.",
+          "title": "Sustainability"
+        },
+        {
+          "description": "Continuous development in response to community and stage needs.",
+          "title": "Innovation"
+        },
+        {
+          "description": "Grounding leadership development in the identity and value system of our communities.",
+          "title": "Mission Orientation"
+        },
+        {
+          "description": "Using rigorous scientific standards in observation, design, evaluation, and solutions.",
+          "title": "Scientific Methodology"
+        },
+        {
+          "description": "A specialized and deep professional approach to leadership craft and impact.",
+          "title": "Professionalism"
+        }
+      ],
+      "goals": [
+        "Advance and govern the leadership-development industry among specialized institutions.",
+        "Enable leadership-building institutions and increase their effectiveness in creating impact.",
+        "Monitor and study global leadership knowledge and experiences in ways that serve our communities.",
+        "Produce useful knowledge, strengthen research, and make leadership applications easier to use."
+      ]
+    },
+    "conference": {
+      "eyebrow": "Conference",
+      "subtitle": "Details for the fifth Sustainable Leadership Conference 2026",
+      "title": "Fifth Sustainable Leadership Conference 2026"
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "subtitle": "Simple and clear contact channels",
+      "title": "Contact Us"
+    },
+    "programs": {
+      "eyebrow": "Programs",
+      "subtitle": "Program cards and schedule structure ready for final details",
+      "title": "Programs"
+    },
+    "registration": {
+      "eyebrow": "Registration",
+      "subtitle": "A clean initial registration form",
+      "title": "Registration"
+    },
+    "speakers": {
+      "eyebrow": "Speakers",
+      "subtitle": "Speaker cards ready for real photos and profiles",
+      "title": "Speakers"
+    }
+  },
+  "institute": {
+    "groups": [
+      {
+        "title": "Why It Matters",
+        "description": "The real need behind a specialized institute for sustainable leadership craft.",
+        "featured": true,
+        "items": [
+          "There is a large and urgent need for high-quality leaders capable of meeting responsibilities and challenges.",
+          "Many institutions that build leaders face weak capacity and limited outputs.",
+          "Grant and donor programs often have weak impact in graduating community-building competencies.",
+          "Leadership-development programs consume major human and financial resources compared with their return.",
+          "Leadership-building institutions need support and enablement to develop their programs.",
+          "There is a weak scientific approach and a lack of strong curricula, guides, and applied models."
+        ]
+      },
+      {
+        "title": "Means",
+        "description": "Practical tools used by the institute to enable institutions and build impact.",
+        "items": [
+          "Preparing and modeling guides, technologies, curricula, and methodologies.",
+          "Producing specialized research and studies, publishing them, and making them accessible.",
+          "Enabling and supporting leaders of leadership-building institutions and program departments.",
+          "Providing consulting support, practical enablement, and exchange of experiences.",
+          "Networking institutions and opening opportunities for cooperation and shared expertise.",
+          "Enabling program departments to design leadership qualification programs across fields and levels."
+        ]
+      },
+      {
+        "title": "Policies",
+        "description": "The working principles governing design, development, and application.",
+        "items": [
+          "Adopting the mission dimension as a core value in leadership-building methodologies.",
+          "Scientific methodologies govern observation, assessment, and design.",
+          "Making knowledge reachable and useful.",
+          "Continuous development and creation of better leadership-qualification practices.",
+          "Integration among institutions working in the leadership sector.",
+          "Adaptability of curricula and guides to each community’s environment and needs."
+        ]
+      },
+      {
+        "title": "Work Tracks",
+        "description": "Where the vision becomes products and services.",
+        "items": [
+          "Producing leadership knowledge through peer-reviewed research, books, and specialized publications.",
+          "Observing and transferring leading global experiences in leadership building.",
+          "Identifying and sharing successful experiences across the community.",
+          "Designing advanced leadership-building methodologies, curricula, and guides.",
+          "Designing and implementing institutional enablement paths in leadership craft.",
+          "Designing field studies, measures, and impact-assessment tools."
+        ]
+      },
+      {
+        "title": "Expected Impact",
+        "description": "The outcomes the institute seeks to leave in institutions and communities.",
+        "items": [
+          "Leadership-building institutions with greater maturity and work competence.",
+          "Reliable knowledge products that offer practical solutions for working institutions.",
+          "Continuous innovation and renewed expertise from observing and modeling success.",
+          "Improved performance among institutional leaders and leadership-program managers.",
+          "More efficient use of financial, human, and time resources.",
+          "A larger supply of qualified leaders for private, civic, and public initiatives."
+        ]
+      }
+    ]
+  },
+  "initiatives": {
+    "title": "Activated Tracks and Initiatives",
+    "items": [
+      {
+        "title": "Leadership Qualification Journey Guide",
+        "description": "A seven-competency guide with 17 subtopics, facilitator training, and application monitoring."
+      },
+      {
+        "title": "Impact Leaders Forum",
+        "description": "An intensive training week with ongoing incubation, qualification, impact tracking, and awareness tracks."
+      },
+      {
+        "title": "Stakeholder Initiatives",
+        "description": "Impact Alliance for donors, a youth-development institutions community, and a specialized expert network."
+      },
+      {
+        "title": "Digital Platform",
+        "description": "A platform for learning, assessments, follow-up, communication, notifications, and impact indicators."
+      }
+    ]
+  },
+  "theme": {
+    "useDark": "Use dark mode",
+    "useLight": "Use light mode"
+  }
+}

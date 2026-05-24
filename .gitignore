@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+sustainable-vite-foundation.png
+sustainable-navbar-pdf-match.png
+sustainable-components-*.png
+pdf-page-*.png
+pdf-renders/
