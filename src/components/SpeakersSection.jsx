@@ -10,7 +10,7 @@ export function SpeakersSection() {
 
   return (
     <section className="section" id="speakers">
-      <div className="section__header section__header--inline">
+      <div className="section__header section__header--inline speakers-heading">
         <h2>{t('speakers.title')}</h2>
         <Link to="/speakers">
           {t('speakers.viewAll')} <ArrowIcon size={16} aria-hidden="true" />

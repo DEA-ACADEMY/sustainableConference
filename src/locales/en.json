@@ -210,8 +210,8 @@
     ]
   },
   "partners": {
-    "title": "Impact Partners",
-    "items": ["Partner Company", "Partner Company", "Partner Company", "Partner Company", "Partner Company", "Partner Company"]
+    "title": "Conference Sponsor",
+    "items": ["International Leadership and Development Academy Endowment"]
   },
   "registration": {
     "fields": [
@@ -268,6 +268,13 @@
         "type": "select"
       }
     ],
+    "emailNote": "Registration details are sent directly to the conference email.",
+    "emailSubject": "New conference registration",
+    "error": "The email could not be sent. Please check the server email settings.",
+    "mailClient": "Your email app should open now with the registration details ready.",
+    "sending": "Sending...",
+    "submit": "Send registration",
+    "success": "Registration sent successfully. We will contact the participant soon.",
     "subtitle": "Join the change and become part of a sustainable future",
     "title": "Register for the conference now"
   },
@@ -320,6 +327,19 @@
     "email": "Email",
     "follow": "Follow Us",
     "newsletter": "Newsletter"
+  },
+  "contact": {
+    "kicker": "Communication",
+    "location": "Location",
+    "mapTitle": "Conference location map",
+    "subtitle": "For registration, coordination, media, and conference participation details.",
+    "title": "Direct Conference Channels",
+    "whatsapp": "Chat on WhatsApp"
+  },
+  "notFound": {
+    "action": "Back to home",
+    "subtitle": "The page you are looking for is not available yet.",
+    "title": "Page not found"
   },
   "pages": {
     "about": {

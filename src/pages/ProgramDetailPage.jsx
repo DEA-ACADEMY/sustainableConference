@@ -1,13 +1,18 @@
 import { Link, useParams } from 'react-router-dom';
 import { ConferenceBanner } from '../components/ConferenceBanner.jsx';
 import { useI18n } from '../i18n/useI18n.js';
+import { NotFoundPage } from './NotFoundPage.jsx';
 import { PageHeader } from './PageHeader.jsx';
 
 export function ProgramDetailPage() {
   const { programId } = useParams();
   const { t } = useI18n();
   const programs = t('programCatalog.items');
-  const program = programs.find((item) => item.slug === programId) || programs[0];
+  const program = programs.find((item) => item.slug === programId);
+
+  if (!program) {
+    return <NotFoundPage />;
+  }
 
   return (
     <>

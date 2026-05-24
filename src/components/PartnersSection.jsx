@@ -1,4 +1,4 @@
-import { Crown } from 'lucide-react';
+import sponsorLogo from '../assets/sponsor-logo.jpg';
 import { useI18n } from '../i18n/useI18n.js';
 
 export function PartnersSection() {
@@ -14,7 +14,7 @@ export function PartnersSection() {
       <div className="partners__grid">
         {partners.map((partner, index) => (
           <article className="partner-logo" key={`${partner}-${index}`}>
-            <Crown size={48} aria-hidden="true" />
+            <img src={sponsorLogo} alt="" aria-hidden="true" />
             <span>{partner}</span>
           </article>
         ))}
